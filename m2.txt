@@ -1,1 +1,2 @@
 This is my second commit to learn undo process
+This is second changes in m2.txt
